@@ -1,0 +1,28 @@
+{
+    "name": "crc32",
+    "version": "0.0.1",
+    "description": "Calculates the CRC32 checksum of a string",
+    "author": "Marco Palladino <marco@mashape.com>",
+    "homepage":"https://github.com/thefosk/node-crc32",
+    "dependencies": {
+    },
+    "engines": {
+        "node": ">= 0.8.11"
+    },
+	"devDependencies": {
+	        "vows": "0.6.3"
+	},
+    "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
+    "repository" : { 
+    "type" : "git", 
+	"url" : "https://github.com/thefosk/node-crc32"
+    },
+	"main": "./index",
+    "directories": {
+      "lib": "./lib"
+    },
+    "bugs" : {
+	"url" : "https://github.com/thefosk/node-crc32/issues",
+	"email" : "marco@mashape.com"
+    }
+}
