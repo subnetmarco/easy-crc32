@@ -1,6 +1,6 @@
 {
     "name": "easy-crc32",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Calculates the CRC32 checksum of a string",
     "author": "Marco Palladino <marco@mashape.com>",
     "homepage":"https://github.com/thefosk/easy-crc32",
