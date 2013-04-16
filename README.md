@@ -1,4 +1,4 @@
-# crc32
+# easy-crc32
 
 A pure Javascript implementation for calculating the CRC32 checksum of a string.
 
