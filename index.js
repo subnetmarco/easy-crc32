@@ -1,1 +1,1 @@
-module.exports = require('./lib/crc32.js');
+module.exports = require('./lib/easy-crc32.js');

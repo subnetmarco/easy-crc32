@@ -1,9 +1,9 @@
 {
-    "name": "crc32",
+    "name": "easy-crc32",
     "version": "0.0.1",
     "description": "Calculates the CRC32 checksum of a string",
     "author": "Marco Palladino <marco@mashape.com>",
-    "homepage":"https://github.com/thefosk/node-crc32",
+    "homepage":"https://github.com/thefosk/easy-crc32",
     "dependencies": {
     },
     "engines": {
@@ -12,17 +12,17 @@
 	"devDependencies": {
 	        "vows": "0.6.3"
 	},
-    "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
+    "license": "MIT",
     "repository" : { 
     "type" : "git", 
-	"url" : "https://github.com/thefosk/node-crc32"
+	"url" : "https://github.com/thefosk/easy-crc32"
     },
 	"main": "./index",
     "directories": {
       "lib": "./lib"
     },
     "bugs" : {
-	"url" : "https://github.com/thefosk/node-crc32/issues",
+	"url" : "https://github.com/thefosk/easy-crc32/issues",
 	"email" : "marco@mashape.com"
     }
 }

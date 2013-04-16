@@ -1,6 +1,6 @@
 var vows = require('vows'),
     assert = require('assert'),
-	crc32 = require('./../lib/crc32');
+	crc32 = require('./../lib/easy-crc32');
 
 vows.describe('Checksum test').addBatch({
 	'Checksum' : {
